@@ -11,4 +11,8 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9e9f3fd (Add first commit)
 //77
